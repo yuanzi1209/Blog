@@ -5,9 +5,8 @@
 ## Record
 
 - [记录：我在学习过程中遇到的Bug（持续更新）](https://github.com/yuanzi1209/Blog/issues/4#issue-858453093)
-- 记录：我在学习过程中遇到的技术难点（持续更新）
 
-
+  
 
 ## ES6
 
