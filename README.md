@@ -1,8 +1,11 @@
 # Blog
 
+
+
 ## Record
 
-- [记录：我在学习过程中遇到的问题（持续更新）](https://github.com/yuanzi1209/Blog/issues/4#issue-858453093)
+- [记录：我在学习过程中遇到的Bug（持续更新）](https://github.com/yuanzi1209/Blog/issues/4#issue-858453093)
+- 记录：我在学习过程中遇到的技术难点（持续更新）
 
 
 
@@ -21,3 +24,10 @@
 ## Vue
 
 - [Vue 常用配置](https://github.com/yuanzi1209/Blog/issues/6#issue-878559034)
+
+
+
+## 微信小程序
+
+- [微信小程序-关于swiper组件设置类名无效的问题](微信小程序-关于swiper组件设置类名无效的问题)
+
